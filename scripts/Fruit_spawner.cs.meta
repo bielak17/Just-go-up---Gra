@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d239d29bb001e824cae19cb24ff2313a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - banana: {fileID: 244181353799844504, guid: 027d3f520feb9534995cee707645a56e, type: 3}
+  - strawberry: {fileID: 1327551236051305996, guid: 0a59d501c23a96b48922777ded8c608c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
